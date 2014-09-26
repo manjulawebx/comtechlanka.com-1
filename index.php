@@ -49,7 +49,7 @@ if($_SERVER["SERVER_NAME"]=="localhost")
                 <li><a href="#websitedeveloper">Website Developer</a></li>
                 <li><a href="#webdesigningreates">Website Designing Rates</a></li>
                 <li><a href="#contactwebsitedesigner">Contact</a></li>
-                <li><a href="">Our Products</a></li>
+                <li><a href="#contact">Our Products</a></li>
             </ul>
         </div>
     </div>
