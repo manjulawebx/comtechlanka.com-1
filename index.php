@@ -176,6 +176,9 @@ if($_SERVER["SERVER_NAME"]=="localhost")
         <li><a href="#">Contact Website Developer</a></li>
         <li><a href="#">About Website Developer</a></li>
     </ul>
+    <h4>Useful Links</h4>
+    <p>Link 1</p>
+    <p>Link 2</p>
     <p style="border-top:#999 1px dotted; padding-top:10px;">&nbsp;</p>
 <p>&copy; 2004-<?php echo date('Y'); ?>, All Rights Reserved.</p>
 </div>
