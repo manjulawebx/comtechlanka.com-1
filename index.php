@@ -40,7 +40,7 @@ if($_SERVER["SERVER_NAME"]=="localhost")
 			<span class="small-text"><a href="<?php echo SITE_ROOT; ?>">Website Designing  &amp;  Website Developing in Sri Lanka</a></span>
         </div>
         <div id="header-right">
-   	  <strong>Call: (+94)77 326 3191</strong></div>
+   	  <strong>Call:  (+94)77 326 3191</strong></div>
         <div class="wrapper" id="navigation">
         	<ul>
             	
