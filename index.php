@@ -44,7 +44,7 @@ if($_SERVER["SERVER_NAME"]=="localhost")
         <div class="wrapper" id="navigation">
         	<ul>
             	
-               <!-- <li><a href="">Portfolio</a></li>-->
+                <li><a href="">Portfolio</a></li>
                 <li><a href="#websiteservices">Website Services</a></li>
                 <li><a href="#websitedeveloper">Website Developer</a></li>
                 <li><a href="#webdesigningreates">Website Designing Rates</a></li>
